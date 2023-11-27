@@ -6,7 +6,7 @@
 
 <table>
  <tr>
-    <td align="center"><a href="https://github.com/kangeunku"><img src="https://github.com/LSMJJAng/be-honest-/assets/127660101/2a65751d-4894-4fd8-a691-03fefe2acea8" width="200px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/kangeunku"><img src="https://github.com/LSMJJAng/be-honest-/assets/127660101/25eedd05-3d1e-4e57-8342-8754ab4c86be" width="200px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/guesswb"><img src="https://github.com/LSMJJAng/be-honest-/assets/127660101/6b767834-14b1-4673-87f4-fbcf3b2f4302" width="200px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/LSMJJAng"><img src="https://github.com/LSMJJAng/Baekjoon-coding/assets/127660101/4b17810e-b471-4452-9564-73735fa9b058" width="200px;" alt=""></a></td>
   </tr>
