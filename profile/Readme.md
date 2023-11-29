@@ -70,6 +70,11 @@
 
 ### Code Convention
 
+- #### 프로젝트 디렉토리 구조 - 기능별로 그룹화
+  예시 사진
+  ![image](https://github.com/Hyundai-Charowner/.github/assets/127660101/58a50094-41fc-4387-9c94-7bd2939ee517)
+
+- #### 작명 - 약칭 사용은 지향하고 사용 필요시 팀원들과 사전에 협의한다
 - #### 파일(클래스 등등)명 - UpperCamelCase EX) RowMapper, Reservation
 - #### 함수(메서드)명 - LowerCamelCase EX) toString, withUserId
 - #### 변수명 - LowerCamelCase EX) toString, withUserId
