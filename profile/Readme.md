@@ -70,8 +70,8 @@
 
 ### Code Convention
 
-- #### 파일명 - Upper Case
-- #### 함수명 - UpperCamelCase
-- #### 변수명 - LowerCamelCase
+- #### 파일(클래스 등등)명 - UpperCamelCase EX) RowMapper, Reservation
+- #### 함수(메서드)명 - LowerCamelCase EX) toString, withUserId
+- #### 변수명 - LowerCamelCase EX) toString, withUserId
 - #### 주석 - 주석은 최소 function or Method 단위로 작성한다
 - #### 들여쓰기 - 들여쓰기는 space 4칸으로 설정한다
