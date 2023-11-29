@@ -8,7 +8,7 @@
  <tr>
     <td align="center"><a href="https://github.com/kangeunku"><img src="https://github.com/LSMJJAng/be-honest-/assets/127660101/25eedd05-3d1e-4e57-8342-8754ab4c86be" width="200px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/guesswb"><img src="https://github.com/LSMJJAng/be-honest-/assets/127660101/6b767834-14b1-4673-87f4-fbcf3b2f4302" width="200px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/LSMJJAng"><img src="https://github.com/Hyundai-Charowner/Test01-BE/assets/127660101/a46b21d5-69d2-4d65-8cd9-d4d644e89066" width="200px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/LSMJJAng"><img src="https://github.com/Hyundai-Charowner/Test01-FE/assets/127660101/21e1421f-88ca-4292-bcc8-bd361bb286d5" width="200px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/kangeunku"><b>강은구</b></a></td>
