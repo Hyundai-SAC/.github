@@ -58,19 +58,16 @@
 <table>
  <tr>
     <td align="center"><h4>노션</h4></td>
-    <td align="center"><h4>jira</h4></td>
     <td align="center"><h4>Git</h4></td>
    <td align="center"><h4>Figma</h4></td>
   </tr>
   <tr>
     <td align="center"><img src="https://user-images.githubusercontent.com/93081720/192472772-257048e0-0887-41fd-876c-324dbe90fb2d.png" width = 300px></td>
-    <td align="center"><img src="https://github.com/LSMJJAng/be-honest-/assets/127660101/c727d913-a2de-4ba9-a9bf-44f3c3d495d9" width = 300px</td>
     <td align="center"><img src="https://github.com/LSMJJAng/etctest/assets/127660101/eba37a6c-ef7a-4bfa-a564-151be3bdbb3a" width = 300px</td>
     <td align="center"><img src="https://github.com/LSMJJAng/be-honest-/assets/127660101/2dfdbee9-25a7-4928-a81c-23abf3f28d42" width = 300px</td>
   </tr>
   <tr> 
     <td>노션 팀 페이지를 활용하여 매일 스크럼 진행 및 기록</td>
-    <td>Jira를 활용한 전체 프로젝트 이슈 및 주간 이슈 관리</td>
     <td>이슈 기반의 깃 브랜치 전략을 통한 프로젝트 관리</td>
     <td>Figma를 통한 Prototype 및 디자인 관리</td>
   </tr> 
@@ -78,18 +75,12 @@
 
 ## 🙏Ground Rule
 ### 기본적인 Rule
-
-- ex) 일과 시간 12:00 ~ 22:00 (월 ~ 금) / 10:00 ~ 18:00 (토) - 오프라인 최소 주 4회
-
+- **개발 코어 타임 09시 ~ 18시**
+- **의견 대립이 끝나지 않을 시 10분 휴식 후 각자의 의견 다시 정리해서 무조건 다수결로 진행**
+- **의견에 대해 근거나 대안을 고민해보고 이야기 하기**
+- **에러사항 1시간 이상 진행 사항이 없을 시 공유**
 <br>
 
-### 개발 일지 작성
-
-> ex )Github Actions 활용해서 개발 시작하면서부터 작성
-
-- 어제 할 일 & 오늘 한 일
-- 구현 내용
-- 공유할 내용 (Optional)
 
 
 ### Code Convention
