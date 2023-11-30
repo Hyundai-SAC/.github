@@ -1,8 +1,37 @@
 # 👨‍👧‍👧프로젝트 소개
-#### ~~ 프로젝트 입니다
+## 프로젝트 제목
+> ㅇㅇ
+>
+
+<br>
+
+## 프로젝트 내용
+> ㅇㅇ
+
+<br>
+
+## 프로젝트 서비스 Flow
+
+<br>
+
+## 프로젝트 아키텍쳐
+
+<br>
+
+## 프로젝트 환경
+![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![javaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![AWS](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+<br>
 
 # 👨‍👧‍👧팀소개
 > 새싹 현대 IT&E 채용확정형 MSA기반 FullStack개발자 양성과정 8기 1차 프로젝트 <strong>Team - 오빠 char 있어?</strong>
+
 
 <table>
  <tr>
@@ -19,11 +48,6 @@
     <td align="center">역할</td>
     <td align="center">역할</td>
     <td align="center">역할</td>
-  </tr> 
-  <tr> 
-    <td align="center">todo: 뱃지 넣기</td>
-    <td align="center">todo: 뱃지 넣기</td>
-    <td align="center">todo: 뱃지 넣기</td>
   </tr> 
 </table>
 
