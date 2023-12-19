@@ -48,9 +48,19 @@
     <td align="center"><a href="https://github.com/LSMJJAng"><b>이승민</b></a></td>
   </tr>
   <tr> 
-    <td align="center">역할</td>
-    <td align="center">역할</td>
-    <td align="center">역할</td>
+    <td align="center">
+     <p>데이터 베이스 ERD 설계</p>
+     <p>스프링 REST 기반 CRUD API 구현</p>
+    </td>
+    <td align="center">
+     <p>AWS 기반 서비스 클라우드 설계와 배포 및 서비스 아키텍처 설계</p>
+     <p>프로젝트 CI/CD를 통한 배포 자동화</p>
+    </td>
+    <td align="center">
+     <p>React 기반 클라이언트 FE 개발</p>
+     <p>프로젝트 디자인 및 UI/UX 설계</p>
+     <p>프로젝트 일정 관리 및 이슈 관리</p>
+    </td>
   </tr> 
 </table>
 
