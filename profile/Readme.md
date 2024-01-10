@@ -1,8 +1,26 @@
 # 👨‍👧‍👧프로젝트 소개
-> 새싹인들을 위한 온라인 커뮤니티
+> 새싹인들을 위한 온라인 커뮤니티 SAC
 <br>
 
-## 프로젝트 서비스 Flow
+## 프로젝트 목표
+<p>SAC 프로젝트의 목표는 IT 교육 프로그램의 교육생들 간에 취미를 공유하고 소통할 수 있는 커뮤니티를 구축하는 플랫폼을 형성하는 것입니다. 이를 통해 교육생들은 수업 외에도 자신의 취미와 관심사를 주제로 대화하고 공유할 수 있는 공간을 제공받게 됩니다.</p>
+<p>새싹 사람들을 위한 커뮤니티 플랫폼 SAC을 통해 교육생들은 서로의 취미에 대한 이해와 관심을 동기부여로 삼아 친목을 형성하고 유대감을 도모할 수 있습니다. 또한, 프로젝트를 통해 교육생들은 다양한 취미 분야에서의 지식과 경험을 나누며 서로에게 영감과 동기를 주고받을 수 있습니다.</p>
+
+## 프로젝트 주요 기능
+<table>
+ <tr>
+  <td><img src="https://github.com/Hyundai-SAC/.github/assets/127660101/5be862a7-b590-48a3-a6a2-971ff93afc3c" width="250px;" alt=""></td>
+  <td><img src="https://github.com/Hyundai-SAC/.github/assets/127660101/ffb74116-a13b-4189-87cc-b057ce5498d7" width="250px;" alt=""></td>
+  <td><img src="https://github.com/Hyundai-SAC/.github/assets/127660101/802892ed-de74-4f95-a4ed-f685e6472477" width="250px;" alt=""></td>
+  <td><img src="https://github.com/Hyundai-SAC/.github/assets/127660101/17166df9-125e-4b3f-b11d-e3cc83e67b66" width="250px;" alt=""></td>
+ </tr>
+ <tr>
+  <td><h4>메인페이지</h4></td>
+  <td><h4>글 작성</h4></td>
+  <td><h4>토픽 둘러보기</h4></td>
+  <td><h4>마이페이지</h4></td>
+ </tr>
+</table>
 <br>
 
 ## 프로젝트 아키텍쳐
